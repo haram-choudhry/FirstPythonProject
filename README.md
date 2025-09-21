@@ -1,2 +1,2 @@
-# FirstPyrthoProject
+# FirstPythonProject
 
