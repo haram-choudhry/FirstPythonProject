@@ -19,3 +19,7 @@ print (f"My current read is {current_read}")
 university_name = "BPP University"
 course_name = "BSc Applied Management"
 print (f"I study in {university_name} and my course name is {course_name}.")
+# 5. Strings
+favourite_authors = "Roald Dahl and David Williams"
+print (f"My favourite authors as a kid were {favourite_authors}.")
+print (f"My name is {name} and i live in {city}. I am {age} years old in {year}. My favourite means of transporatation are {means_of_transportation_i_love}. I study in {university_name} and my corse name is {course_name}. My favourite authors as a kid were {favourite_authors}.")
